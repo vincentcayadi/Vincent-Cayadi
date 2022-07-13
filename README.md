@@ -1,4 +1,4 @@
-# Hi there 👋
+<img src="https://media1.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120">
 
 ### 🔭 I’m currently working on Web3 Development, Robocup Soccer Junior and Unity
 ### 🌱 I’m currently learning C++ and C#
