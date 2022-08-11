@@ -1,7 +1,6 @@
 <img src="https://media1.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120">
 
-### 🔭 I’m currently working on Web3 Development, Robocup Soccer Junior and Unity
-### 🌱 I’m currently learning C++ and C#
+### 🌱 I’m currently learning C++ and Web Devlopment
 ### 💬 Ask me about anything!
 ### ⚡ Fun fact: I am an athelete too!
 
@@ -9,7 +8,6 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00979D)
 ![BASH](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=4EAA25)
-![C#](https://img.shields.io/badge/-csharp-239120?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
 ![Javascript](https://img.shields.io/badge/-Javascript-F1DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
