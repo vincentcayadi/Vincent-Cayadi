@@ -22,9 +22,6 @@
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)
 
 ## IDE/Text Editor
-
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=fffff)
-![Rider](https://img.shields.io/badge/-rider-000000?style=for-the-badge&labelColor=black&logo=rider&logoColor=fffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=006ACC)
 ![Neovim](https://img.shields.io/badge/-NEOVIM-57A143?style=for-the-badge&labelColor=black&logo=neovim&logoColor=57A143)
 
