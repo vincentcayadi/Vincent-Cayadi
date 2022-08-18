@@ -1,8 +1,8 @@
-<img src="https://media1.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120">
+<h1 align="center">I only want good vibes 'round me tonight</h1>
 
-### 🌱 I’m currently learning C++ and Web Devlopment
-### 💬 Ask me about anything!
-### ⚡ Fun fact: I am an athelete too!
+<h3 align="center"> I like building things physically 🤖 and virtually 💻</p>
+
+<p align="center">You might be interested in <a href="https://vincentcayadi.vercel.app" target="_blank">this</a></p>
 
 ## Languages
 
@@ -19,19 +19,3 @@
 ![Tailwind](https://img.shields.io/badge/-tailwindcss-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
 ![MongoDB](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
 ![Moralis](https://img.shields.io/badge/-Moralis-006600?style=for-the-badge&labelColor=black&)
-![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)
-
-## IDE/Text Editor
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=006ACC)
-![Neovim](https://img.shields.io/badge/-NEOVIM-57A143?style=for-the-badge&labelColor=black&logo=neovim&logoColor=57A143)
-
-
-## Mechanical Engineering
-
-![Autodesk AutoCAD](https://img.shields.io/badge/-autodesk_autocad-FF0000?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=FF0000)
-![Autodesk Fusion360](https://img.shields.io/badge/-autodesk_fusion_360-FF9E0F?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=FF9E0F)
-
-## Electrical Engineering
-
-![Autodesk Eagle](https://img.shields.io/badge/-autodesk_Eagle-FF9E0F?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=FF9E0F)
-![Altium](https://img.shields.io/badge/-Altium_Designer-A5915F?style=for-the-badge&labelColor=black&logo=altiumdesigner&logoColor=A5915F)
